@@ -24,4 +24,4 @@ Under this folder you can find some of my presentation material.
 
 ## License
 
-Copyright (c) Microsoft Corporation, licensed under The MIT License (MIT).
+Copyright (c) Microsoft Corporation, licensed under [The MIT License (MIT)](https://raw.githubusercontent.com/jpoon/decodedconf-squirrel-sample/master/LICENSE).
