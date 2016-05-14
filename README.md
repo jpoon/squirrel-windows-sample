@@ -21,3 +21,7 @@ where <your-version-here> is in the form w.x.y.z
 * `/Docs` - This project was initially built to supplement a talk that I had done at Decoded Open Source Conference (#DecodedConf) in Dublin, Ireland 2016. 
 Under this folder you can find some of my presentation material.
 * [Blog Post](http://www.jasonpoon.ca/2016/02/20/setting-up-continuous-delivery-with-squirrel-and-vsts/) - Blog post I had written about setting up a continuous delivery pipeline using Squirrel and VSTS.
+
+## License
+
+Copyright (c) Microsoft Corporation, licensed under The MIT License (MIT).
